@@ -1,0 +1,21 @@
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+strong {
+    text-shadow: 5px 5px 5px darkolivegreen;
+}
+
+.writer {
+    font-size: 5px;
+    font-style: italic;
+    color: black;
+}
+
+.content {
+    font-size: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
